@@ -1,0 +1,200 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_medolia";
+    src: url("flaticon_medolia_560b6eb6f24066cc409e639d831ec299.woff2") format("woff2"),
+url("flaticon_medolia_560b6eb6f24066cc409e639d831ec299.woff") format("woff"),
+url("flaticon_medolia_560b6eb6f24066cc409e639d831ec299.eot#iefix") format("embedded-opentype"),
+url("flaticon_medolia_560b6eb6f24066cc409e639d831ec299.ttf") format("truetype"),
+url("flaticon_medolia_560b6eb6f24066cc409e639d831ec299.svg#flaticon_medolia") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_medolia !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-calendar:before {
+    content: "\f101";
+}
+.flaticon-search:before {
+    content: "\f102";
+}
+.flaticon-meetup:before {
+    content: "\f103";
+}
+.flaticon-check:before {
+    content: "\f104";
+}
+.flaticon-play:before {
+    content: "\f105";
+}
+.flaticon-calendar-1:before {
+    content: "\f106";
+}
+.flaticon-right-arrow:before {
+    content: "\f107";
+}
+.flaticon-human-brain:before {
+    content: "\f108";
+}
+.flaticon-tooth:before {
+    content: "\f109";
+}
+.flaticon-injection:before {
+    content: "\f10a";
+}
+.flaticon-mental-disorder:before {
+    content: "\f10b";
+}
+.flaticon-liver:before {
+    content: "\f10c";
+}
+.flaticon-industry:before {
+    content: "\f10d";
+}
+.flaticon-aim:before {
+    content: "\f10e";
+}
+.flaticon-phone:before {
+    content: "\f10f";
+}
+.flaticon-plus:before {
+    content: "\f110";
+}
+.flaticon-quotation-mark:before {
+    content: "\f111";
+}
+.flaticon-person:before {
+    content: "\f112";
+}
+.flaticon-facebook-app-symbol:before {
+    content: "\f113";
+}
+.flaticon-linkedin:before {
+    content: "\f114";
+}
+.flaticon-twitter:before {
+    content: "\f115";
+}
+.flaticon-instagram:before {
+    content: "\f116";
+}
+.flaticon-map-pointer:before {
+    content: "\f117";
+}
+.flaticon-certificate:before {
+    content: "\f118";
+}
+.flaticon-first-aid-kit:before {
+    content: "\f119";
+}
+.flaticon-tooth-1:before {
+    content: "\f11a";
+}
+.flaticon-braces:before {
+    content: "\f11b";
+}
+.flaticon-tooth-2:before {
+    content: "\f11c";
+}
+.flaticon-send:before {
+    content: "\f11d";
+}
+.flaticon-timer:before {
+    content: "\f11e";
+}
+.flaticon-doctor:before {
+    content: "\f11f";
+}
+.flaticon-24-7:before {
+    content: "\f120";
+}
+.flaticon-share:before {
+    content: "\f121";
+}
+.flaticon-down:before {
+    content: "\f122";
+}
+.flaticon-favorite:before {
+    content: "\f123";
+}
+.flaticon-check-mark:before {
+    content: "\f124";
+}
+.flaticon-fear:before {
+    content: "\f125";
+}
+.flaticon-stethoscope:before {
+    content: "\f126";
+}
+.flaticon-cardiogram:before {
+    content: "\f127";
+}
+.flaticon-pediatrics:before {
+    content: "\f128";
+}
+.flaticon-phone-call:before {
+    content: "\f129";
+}
+.flaticon-mail:before {
+    content: "\f12a";
+}
+.flaticon-diagnostic-report:before {
+    content: "\f12b";
+}
+.flaticon-treatment-plan:before {
+    content: "\f12c";
+}
+.flaticon-first-aid-kit-1:before {
+    content: "\f12d";
+}
+.flaticon-right:before {
+    content: "\f12e";
+}
+.flaticon-comment:before {
+    content: "\f12f";
+}
+.flaticon-customer-service:before {
+    content: "\f130";
+}
+.flaticon-banned:before {
+    content: "\f131";
+}
+.flaticon-health-check:before {
+    content: "\f132";
+}
+.flaticon-customer:before {
+    content: "\f133";
+}
+.flaticon-person-1:before {
+    content: "\f134";
+}
+.flaticon-checked:before {
+    content: "\f135";
+}
+.flaticon-conversation:before {
+    content: "\f136";
+}
+.flaticon-healthcare:before {
+    content: "\f137";
+}
+.flaticon-blood-tube:before {
+    content: "\f138";
+}
+

@@ -1,0 +1,789 @@
+@charset "UTF-8";
+/*----------------------------------------------------------------------------------- 
+
+Template Name: Medolia – Doctor, Dental & Healthcare HTML Template
+URI: pixelfit.agency
+Description: Medolia is a modern, clean, and professional HTML template built specifically for the healthcare industry. Whether you’re a private doctor, dental clinic, or a multispecialty hospital, Medolia offers the perfect design to establish trust and deliver information clearly.
+Author: Pixelfit
+Author URI: https://themeforest.net/user/pixelfit
+Version: 1.0 
+
+
+------------------------------------------------------
+   CSS INDEX
+-----------------------------------------------------
+
+    # Hero Section CSS
+    # About Section CSS
+    # Service Section CSS
+    # CTA Section CSS
+    # Choose Section CSS
+    # Contact CSS
+    # Team Section CSS
+    # Testimonial Section CSS
+    # Blog Section CSS
+
+-------------------------------------------------------    */
+:root {
+  --primary-color: #006042;
+  --gray-light-color: #F7F7F7;
+  --accent-color: #EE6F6E;
+}
+
+/* Hero Section CSS */
+.medolia-hero-sec {
+  background-color: #F7F7F7;
+  padding: 175px 0 50px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+.medolia-hero-sec .shape {
+  position: absolute;
+  z-index: -1;
+}
+.medolia-hero-sec .shape span {
+  width: 600px;
+  height: 600px;
+  border-radius: 50%;
+  -webkit-filter: blur(100px);
+          filter: blur(100px);
+}
+.medolia-hero-sec .shape.shape-one {
+  top: -300px;
+  left: -300px;
+}
+.medolia-hero-sec .shape.shape-one span {
+  background: rgba(5, 178, 237, 0.15);
+}
+.medolia-hero-sec .shape.shape-two {
+  top: -300px;
+  right: -300px;
+}
+.medolia-hero-sec .shape.shape-two span {
+  background: rgba(255, 182, 172, 0.2);
+}
+.medolia-hero-sec .hero-content {
+  position: relative;
+  max-width: 1570px;
+  margin: 0 auto;
+  margin-bottom: 130px;
+}
+@media screen and (max-width: 1199.98px) {
+  .medolia-hero-sec .hero-content {
+    text-align: center;
+    margin-bottom: 80px;
+  }
+}
+.medolia-hero-sec .hero-content h1 {
+  font-size: 170px;
+  line-height: 1;
+}
+@media (max-width: 1650px) {
+  .medolia-hero-sec .hero-content h1 {
+    font-size: 150px;
+  }
+}
+@media screen and (max-width: 1199.98px) {
+  .medolia-hero-sec .hero-content h1 {
+    font-size: 100px;
+  }
+}
+@media screen and (max-width: 991.98px) {
+  .medolia-hero-sec .hero-content h1 {
+    font-size: 70px;
+    line-height: 80px;
+  }
+}
+@media (max-width: 767.98px) {
+  .medolia-hero-sec .hero-content h1 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+}
+.medolia-hero-sec .hero-content h1 span {
+  padding: 0 10px;
+  border-bottom: 6px solid var(--primary-color);
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(2.05%, rgba(0, 96, 66, 0.2)), color-stop(97.14%, rgba(255, 255, 255, 0.1)));
+  background: linear-gradient(0deg, rgba(0, 96, 66, 0.2) 2.05%, rgba(255, 255, 255, 0.1) 97.14%);
+}
+.medolia-hero-sec .hero-content .text-box {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  max-width: 850px;
+}
+@media (max-width: 1650px) {
+  .medolia-hero-sec .hero-content .text-box {
+    max-width: 700px;
+  }
+}
+@media screen and (max-width: 1199.98px) {
+  .medolia-hero-sec .hero-content .text-box {
+    position: relative;
+    bottom: auto;
+    right: auto;
+    margin: 40px auto 0;
+  }
+}
+.medolia-hero-sec .hero-content .text-box p {
+  margin-bottom: 30px;
+}
+.medolia-hero-sec .hero-content .button-wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+@media (max-width: 767.98px) {
+  .medolia-hero-sec .hero-content .button-wrap {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+.medolia-hero-sec .hero-content .button-wrap .medolia-avatar-box {
+  margin-left: 50px;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+@media (max-width: 767.98px) {
+  .medolia-hero-sec .hero-content .button-wrap .medolia-avatar-box {
+    margin-left: 0;
+    margin-top: 30px;
+  }
+}
+.medolia-hero-sec .hero-content .button-wrap .medolia-avatar-box .medolia-avatar ul {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.medolia-hero-sec .hero-content .button-wrap .medolia-avatar-box .medolia-avatar ul li:not(:first-child) {
+  margin-left: -15px;
+}
+.medolia-hero-sec .hero-content .button-wrap .medolia-avatar-box .medolia-avatar ul li img {
+  border: 3px solid var(--white-color);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.medolia-hero-sec .hero-content .button-wrap .medolia-avatar-box .trusted-user {
+  margin-left: 20px;
+}
+.medolia-hero-sec .hero-content .button-wrap .medolia-avatar-box .trusted-user h4 span {
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1;
+}
+.medolia-hero-sec .hero-image {
+  padding: 0 30px;
+}
+.medolia-hero-sec .hero-image img {
+  border-radius: 10px;
+  min-height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: 100% 100%;
+     object-position: 100% 100%;
+}
+
+/* About Section CSS */
+.medolia-about-sec .medolia-image img {
+  border-radius: 10px;
+}
+.medolia-about-sec .medolia-image-box .check-list.style-one li {
+  font-weight: 700;
+  font-family: var(--heading-font);
+  color: var(--heading-color);
+  font-size: 18px;
+}
+.medolia-about-sec .medolia-image-box .check-list.style-one li:not(:last-child) {
+  margin-bottom: 20px;
+}
+.medolia-about-sec .medolia-image-box .check-list.style-one li i {
+  color: var(--accent-color);
+}
+.medolia-about-sec .medolia-image-box .medolia-experience-box {
+  background-color: #FFB6AC;
+  text-align: center;
+  border-radius: 10px;
+  padding: 30px;
+}
+.medolia-about-sec .medolia-image-box .medolia-experience-box .icon {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: var(--heading-color);
+  color: var(--white-color);
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 30px;
+}
+.medolia-about-sec .medolia-image-box .medolia-experience-box .content p {
+  color: var(--heading-color);
+}
+@media (max-width: 767.98px) {
+  .medolia-about-sec .medolia-image-box .medolia-experience-box {
+    margin-top: 50px;
+  }
+}
+
+/* Service Section CSS */
+.medolia-service-sec .container-fluid {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.service-slider {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.service-slider .slick-slide {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.medolia-service-item {
+  padding: 30px;
+  background-color: var(--white-color);
+  border-radius: 10px;
+}
+.medolia-service-item .content h4 {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 30px;
+}
+.medolia-service-item .content h4 i {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: var(--heading-color);
+  color: var(--white-color);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-right: 20px;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+}
+.medolia-service-item .content .thumbnail {
+  margin-bottom: 25px;
+}
+.medolia-service-item .content .thumbnail img {
+  border-radius: 10px;
+}
+.medolia-service-item .content p {
+  margin-bottom: 20px;
+}
+
+/* CTA Section CSS */
+.medolia-cta-sec {
+  background-color: var(--primary-color);
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+@media screen and (max-width: 1199.98px) {
+  .medolia-cta-sec {
+    padding-bottom: 30px;
+  }
+}
+.medolia-cta-sec .section-title {
+  padding: 30px;
+  border-right: 1px solid var(--white-color);
+}
+@media screen and (max-width: 1199.98px) {
+  .medolia-cta-sec .section-title {
+    border-right: none;
+    text-align: center;
+  }
+}
+.medolia-cta-sec .shape {
+  position: absolute;
+  z-index: -1;
+}
+.medolia-cta-sec .shape span {
+  width: 525px;
+  height: 525px;
+  border-radius: 50%;
+  background-color: #0A664A;
+}
+.medolia-cta-sec .shape.shape-one {
+  top: -300px;
+  left: -280px;
+}
+.medolia-cta-sec .shape.shape-two {
+  bottom: -300px;
+  right: -280px;
+}
+.medolia-cta-sec .contact-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+@media (max-width: 767.98px) {
+  .medolia-cta-sec .contact-list {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+.medolia-cta-sec .contact-list .medolia-button .theme-btn.style-one {
+  background-color: var(--white-color);
+  color: var(--heading-color);
+}
+.medolia-cta-sec .contact-list .medolia-contact-box .icon {
+  color: var(--white-color);
+}
+.medolia-cta-sec .contact-list .medolia-contact-box .content h4 {
+  color: var(--white-color);
+}
+@media (max-width: 767.98px) {
+  .medolia-cta-sec .contact-list .medolia-contact-box {
+    margin-bottom: 30px;
+  }
+}
+
+.medolia-contact-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.medolia-contact-box .icon {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: rgba(255, 255, 255, 0.1);
+  margin-right: 20px;
+  line-height: 1;
+}
+
+/* Choose Section CSS */
+.medolia-choose-sec .medolia-image-box {
+  margin-left: 80px;
+  position: relative;
+  z-index: 1;
+}
+@media screen and (max-width: 1199.98px) {
+  .medolia-choose-sec .medolia-image-box {
+    margin-left: 0;
+  }
+}
+.medolia-choose-sec .medolia-image-box img {
+  border-radius: 10px;
+}
+.medolia-choose-sec .medolia-image-box .play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.medolia-choose-sec .medolia-image-box .play-button .video-popup {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: var(--primary-color);
+  font-size: 14px;
+  color: var(--white-color);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.medolia-choose-item {
+  background-color: var(--gray-light-color);
+  padding: 30px;
+  border-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+@media (max-width: 767.98px) {
+  .medolia-choose-item {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+  }
+}
+.medolia-choose-item .sn-number-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 85%;
+}
+@media (max-width: 767.98px) {
+  .medolia-choose-item .sn-number-title {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+.medolia-choose-item .sn-number-title .sn-number {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: var(--heading-color);
+  color: var(--white-color);
+  margin-right: 20px;
+}
+@media (max-width: 767.98px) {
+  .medolia-choose-item .sn-number-title h4 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+}
+
+/* Contact CSS */
+.medolia-contact-sec .medolia-image img {
+  border-radius: 10px;
+}
+.medolia-contact-sec .contact-wrapper {
+  background-color: var(--primary-color);
+  padding: 50px;
+  border-radius: 10px;
+}
+@media (max-width: 767.98px) {
+  .medolia-contact-sec .contact-wrapper {
+    padding: 30px;
+  }
+}
+.medolia-contact-sec .contact-wrapper h3 {
+  color: var(--white-color);
+  margin-bottom: 25px;
+}
+@media (max-width: 767.98px) {
+  .medolia-contact-sec .contact-wrapper h3 {
+    font-size: 24px;
+    line-height: 35px;
+  }
+}
+
+.contact-form .nice-select, .contact-form .form_control {
+  padding: 9px 30px;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  margin-bottom: 30px;
+  background-color: transparent;
+  color: var(--white-color);
+}
+.contact-form .nice-select::-webkit-input-placeholder, .contact-form .form_control::-webkit-input-placeholder {
+  color: var(--white-color);
+}
+.contact-form .nice-select::-moz-placeholder, .contact-form .form_control::-moz-placeholder {
+  color: var(--white-color);
+}
+.contact-form .nice-select:-ms-input-placeholder, .contact-form .form_control:-ms-input-placeholder {
+  color: var(--white-color);
+}
+.contact-form .nice-select::-ms-input-placeholder, .contact-form .form_control::-ms-input-placeholder {
+  color: var(--white-color);
+}
+.contact-form .nice-select::placeholder, .contact-form .form_control::placeholder {
+  color: var(--white-color);
+}
+.contact-form .nice-select {
+  line-height: 30px;
+}
+.contact-form .nice-select:after {
+  position: absolute;
+  top: 10px;
+  right: 30px;
+}
+.contact-form .nice-select .list {
+  color: var(--heading-color);
+}
+.contact-form .theme-btn {
+  width: 100%;
+  background-color: var(--white-color);
+  color: var(--heading-color);
+}
+
+/* Team Section CSS */
+.medolia-team-item:hover .member-image .social-box {
+  bottom: 114px;
+  opacity: 1;
+  visibility: visible;
+}
+.medolia-team-item .member-image {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.medolia-team-item .member-image img {
+  width: 100%;
+}
+.medolia-team-item .member-image .hover-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+.medolia-team-item .member-image .social-box {
+  position: absolute;
+  bottom: 150px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  padding: 9px;
+  text-align: center;
+  background-color: #FFB6AC;
+  width: 80%;
+  border-radius: 10px 10px 0 0;
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.medolia-team-item .member-image .social-box a {
+  margin-left: 7px;
+  margin-right: 7px;
+  font-size: 20px;
+  color: var(--heading-color);
+}
+.medolia-team-item .member-image .member-info {
+  padding: 25px;
+  width: 100%;
+  background-color: var(--primary-color);
+  text-align: center;
+}
+.medolia-team-item .member-image .member-info h4 {
+  color: var(--white-color);
+}
+@media (max-width: 1650px) {
+  .medolia-team-item .member-image .member-info h4 {
+    font-size: 22px;
+  }
+}
+.medolia-team-item .member-image .member-info .position {
+  color: var(--white-color);
+}
+
+/* Testimonial Section CSS */
+.medolia-testimonial-item {
+  background-color: var(--gray-light-color);
+  padding: 40px;
+  border-radius: 10px;
+}
+.medolia-testimonial-item .testimonial-content .ratings {
+  margin-bottom: 20px;
+}
+.medolia-testimonial-item .testimonial-content .ratings i {
+  color: var(--primary-color);
+}
+.medolia-testimonial-item .testimonial-content h4 {
+  font-style: italic;
+  margin-bottom: 30px;
+}
+@media (max-width: 767.98px) {
+  .medolia-testimonial-item .testimonial-content h4 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+.medolia-testimonial-item .testimonial-content .medolia-author-box {
+  padding-top: 30px;
+  border-top: 1px solid var(--border-color);
+}
+
+.medolia-author-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.medolia-author-box .author-thumbnail {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  width: 60px;
+  margin-right: 20px;
+}
+.medolia-author-box .author-thumbnail img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.medolia-author-box .author-info h5 {
+  margin-bottom: 10px;
+}
+
+.medolia-counter-box {
+  padding: 40px 35px;
+  border-radius: 10px;
+  text-align: center;
+}
+.medolia-counter-box.bg_one {
+  background-color: #FFB6AC;
+}
+.medolia-counter-box.bg_two {
+  background-color: #E0A9FF;
+}
+.medolia-counter-box .content p {
+  color: var(--heading-color);
+}
+
+.medolia-rating-box {
+  background-color: var(--primary-color);
+  padding: 40px;
+  border-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+@media (max-width: 767.98px) {
+  .medolia-rating-box {
+    padding: 30px;
+  }
+}
+.medolia-rating-box .content .title {
+  color: var(--white-color);
+  font: 700 24px var(--heading-font);
+}
+@media screen and (max-width: 1199.98px) {
+  .medolia-rating-box .content .title {
+    font-size: 20px;
+  }
+}
+.medolia-rating-box .content h2 {
+  color: var(--white-color);
+}
+.medolia-rating-box .ratings i {
+  color: #FFC813;
+}
+
+/* Blog Section CSS */
+.medolia-post-item {
+  background-color: var(--gray-light-color);
+  border-radius: 10px;
+  overflow: hidden;
+}
+.medolia-post-item .post-thumbnail {
+  position: relative;
+}
+.medolia-post-item .post-thumbnail img {
+  width: 100%;
+}
+.medolia-post-item .post-thumbnail .date {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 15px;
+  background-color: var(--primary-color);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1;
+  border-radius: 10px;
+  color: var(--white-color);
+}
+.medolia-post-item .post-content {
+  padding: 30px;
+}
+.medolia-post-item .post-content h4 {
+  margin-bottom: 15px;
+}
+@media screen and (max-width: 991.98px) {
+  .medolia-post-item .post-content h4 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+}
+.medolia-post-item .post-content p {
+  margin-bottom: 20px;
+}
