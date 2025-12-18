@@ -21,7 +21,7 @@
                                     <div class="footer-widget footer-nav-widget mb-40" data-aos="fade-up" data-aos-duration="1000">
                                         <h4 class="widget-title">Company</h4>
                                         <div class="widget-content">
-                                            <ul class="widget-nav">
+                                            <ul class="widget-nav" style="list-style-type: none; padding: 0px;">
                                                 <li><a href="./">Home</a></li>
                                                 <li><a href="about">About us</a></li>
                                                 <li><a href="contact">Contact us</a></li>
@@ -33,7 +33,7 @@
                                     <div class="footer-widget footer-nav-widget mb-40" data-aos="fade-up" data-aos-duration="1000">
                                         <h4 class="widget-title">Quick Link</h4>
                                         <div class="widget-content">
-                                            <ul class="widget-nav">
+                                            <ul class="widget-nav" style="list-style-type: none; padding: 0px;">
                                                 <li><a href="faq">FAQ's</a></li>
                                                 <li><a href="privacy">Privacy Policy</a></li>
                                                 <li><a href="terms">Terms & Conditions</a></li>
