@@ -36,7 +36,7 @@
                                             <ul class="widget-nav" style="list-style-type: none; padding: 0px;">
                                                 <li><a href="faq">FAQ's</a></li>
                                                 <li><a href="privacy">Privacy Policy</a></li>
-                                                <li><a href="terms">Terms & Conditions</a></li>
+                                                <li><a href="terms">Terms of Use</a></li>
                                             </ul>
                                         </div>
                                     </div>
