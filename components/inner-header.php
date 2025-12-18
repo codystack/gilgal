@@ -13,7 +13,7 @@
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="Gilgal Home Care® :: Transforming Elderly Care"/>
         <meta name="og:description" content="Gilgal Home Care & Training Services provides compassionate elderly home care in Bayelsa State, offering daytime support, overnight care, hospital discharge support, and trained professional caregivers.">
-        <meta name="keywords" content="Gilgal Home Care, elderly care Bayelsa State, home care services Nigeria, senior care services, overnight care Bayelsa, daytime home care, hospital discharge support, dementia care Nigeria, stroke recovery care, professional caregivers, home health care Bayelsa, personal care services">
+        <meta name="keywords" content="Gilgal Home Care, elderly care Bayelsa State, home care services Nigeria, senior care services, overnight care Bayelsa, daytime home care, hospital discharge support, dementia care Nigeria, stroke recovery care, professional caregivers, home health care Bayelsa, personal care services, Compassionate Home Care, Adult Social Care, Stroke Aftercare, Training">
         
         <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
         

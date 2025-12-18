@@ -13,7 +13,7 @@ include "./components/navbar-alt.php";
                     <div class="row justify-content-center">
                         <div class="col-lg-10">
                             <div class="page-content text-center">
-                                <h1>FAQ’s</h1>
+                                <h1>Frequently Asked Questions</h1>
                                 <ul>
                                     <li><a href="./">Home</a></li>
                                     <li><i class="far fa-angle-double-right"></i></li>
@@ -25,176 +25,219 @@ include "./components/navbar-alt.php";
                 </div>
             </section>
             
-            <section class="medolia-faq-page pt-125">
+            <section class="medolia-faq-page pt-125 pb-125">
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-6">
+                        <div class="col-xl-8 mx-auto">
                             <div class="medolia-content-box">
-                                <h3 class="mb-50" data-aos="fade-up" data-aos-duration="800">General Questions</h3>
-                                <!--====== Accordion  ======-->
                                 <div class="accordion" id="accordionOne">
-                                    <!--====== Accordion Item  ======-->
+                                    
                                     <div class="accordion-box mb-20 accordion-active" data-aos="fade-up" data-aos-duration="800">
                                         <div class="accordion-header">
                                             <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true">
-                                                What should I bring to my first appointment?
+                                                Who are Gilgal Home Care & Training Services?
                                             </h6>
                                         </div>
-                                        <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionOne">
+                                        <div id="collapse1" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>How do I book or reschedule an appointment? Appointments can be scheduled online portal, or at the front desk.</p>
+                                                <p>Gilgal Home Care & Training Services is a professional domiciliary and adult social care provider based in <b>Yenagoa, Bayelsa State.</b> We support older adults, people recovering from illness (including stroke), and vulnerable individuals to live safely and independently at home.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <!--====== Accordion Item  ======-->
+                                    
                                     <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="1000">
                                         <div class="accordion-header">
                                             <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false">
-                                                What insurance plans do you accept?
+                                                What services do you provide?
                                             </h6>
                                         </div>
                                         <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>How do I book or reschedule an appointment? Appointments can be scheduled online portal, or at the front desk.</p>
+                                                <p>
+                                                    We provide:
+                                                    <ul>
+                                                        <li>Adult social care for older adults</li>
+                                                        <li>Home and domiciliary care (daytime & overnight)</li>
+                                                        <li>Post-hospital discharge support</li>
+                                                        <li>Post-stroke aftercare and rehabilitation</li>
+                                                        <li>Personal care, companionship, and daily living support</li>
+                                                        <li>Caregiver and Health Care Assistant training</li>
+                                                    </ul>
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
-                                    <!--====== Accordion Item  ======-->
+                                    
                                     <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="1200">
                                         <div class="accordion-header">
                                             <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false">
-                                                What insurance plans do you accept?
+                                                Do you support older adults on behalf of busy family members?
                                             </h6>
                                         </div>
                                         <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>How do I book or reschedule an appointment? Appointments can be scheduled online portal, or at the front desk.</p>
+                                                <p>Yes. We provide <b>adult social care services on behalf of busy working or overseas family members,</b> ensuring their loved ones are supported while families have peace of mind.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <!--====== Accordion Item  ======-->
+                                    
                                     <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="1400">
                                         <div class="accordion-header">
                                             <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false">
-                                                Do I need a referral to see a specialist?
+                                                Do you specialise in stroke aftercare?
                                             </h6>
                                         </div>
                                         <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>How do I book or reschedule an appointment? Appointments can be scheduled online portal, or at the front desk.</p>
+                                                <p>Yes. Stroke aftercare is one of our core specialties. We support recovery at home through rehabilitation support, daily living assistance, monitoring, and family education.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <!--====== Accordion Item  ======-->
+                                    
                                     <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="1600">
                                         <div class="accordion-header">
                                             <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false">
-                                                What should I do in a medical emergency?
+                                                Who delivers the care?
                                             </h6>
                                         </div>
                                         <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>How do I book or reschedule an appointment? Appointments can be scheduled online portal, or at the front desk.</p>
+                                                <p>
+                                                    Care is delivered by a <b>multidisciplinary team</b> including:
+                                                    <ul>
+                                                        <li>Qualified social workers</li>
+                                                        <li>Physiotherapists and occupational therapists</li>
+                                                        <li>Trained and supervised health care assistants</li>
+                                                        <li>Care coordinators</li>
+                                                    </ul>
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
-                                    <!--====== Accordion Item  ======-->
+                                    
                                     <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="1800">
                                         <div class="accordion-header">
                                             <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false">
-                                                What payment options do you accept?
+                                                Do you work with hospitals and discharge teams?
                                             </h6>
                                         </div>
                                         <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>How do I book or reschedule an appointment? Appointments can be scheduled online portal, or at the front desk.</p>
+                                                <p>Yes. We work closely with hospitals and discharge teams to ensure <b>safe discharge, continuity of care, and reduced readmissions.</b></p>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-6">
-                            <!-- Medolia Content Box -->
-                            <div class="medolia-content-box">
-                                <h3 class="mb-50" data-aos="fade-up" data-aos-duration="800">Services Questions</h3>
-                                <!--====== Accordion  ======-->
-                                <div class="accordion" id="accordionTwo">
-                                    <!--====== Accordion Item  ======-->
-                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="800">
+                                    
+                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="2000">
                                         <div class="accordion-header">
                                             <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="false">
-                                                Will my personal information be kept confidential?
+                                                Is your care personalised?
                                             </h6>
                                         </div>
-                                        <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionTwo">
+                                        <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>Yes, we strictly adhere to HIPAA regulations to protect your privacy and medical information.</p>
+                                                <p>Yes. Every client receives a full assessment and a <b>personalised care and support plan,</b> reviewed regularly to meet changing needs.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <!--====== Accordion Item  ======-->
-                                    <div class="accordion-box accordion-active mb-20" data-aos="fade-up" data-aos-duration="1000">
+                                    
+                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="2200">
                                         <div class="accordion-header">
-                                            <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse8" aria-expanded="true">
-                                                Can I bring someone with me to my appointment?
+                                            <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse8" aria-expanded="false">
+                                                Do you offer overnight or long-term care?
                                             </h6>
                                         </div>
-                                        <div id="collapse8" class="accordion-collapse collapse show" data-bs-parent="#accordionTwo">
+                                        <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>Yes, we strictly adhere to HIPAA regulations to protect your privacy and medical information.</p>
+                                                <p>Yes. We offer flexible care options including daytime support, overnight care, short-term recovery care, and long-term ongoing support.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <!--====== Accordion Item  ======-->
-                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="1200">
+                                    
+                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="2400">
                                         <div class="accordion-header">
                                             <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse9" aria-expanded="false">
-                                                Do you offer vaccinations or immunizations?
+                                                How do you ensure safety and quality?
                                             </h6>
                                         </div>
-                                        <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#accordionTwo">
+                                        <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>Yes, we strictly adhere to HIPAA regulations to protect your privacy and medical information.</p>
+                                                <p>We maintain high standards through safeguarding policies, trained staff, regular supervision, risk assessments, and clear communication with families.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <!--====== Accordion Item  ======-->
-                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="1400">
+                                    
+                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="2600">
                                         <div class="accordion-header">
                                             <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false">
-                                                Can I get same-day appointments for urgent issues?
+                                                How do we get started?
                                             </h6>
                                         </div>
-                                        <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionTwo">
+                                        <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>Yes, we strictly adhere to HIPAA regulations to protect your privacy and medical information.</p>
+                                                <p>
+                                                    Getting started is simple:
+                                                    <ul>
+                                                        <li>Contact us</li>
+                                                        <li>We arrange an assessment</li>
+                                                        <li>A care plan is agreed</li>
+                                                        <li>Care begins at a convenient time</li>
+                                                    </ul>
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
-                                    <!--====== Accordion Item  ======-->
-                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="1600">
+                                    
+                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="2800">
                                         <div class="accordion-header">
                                             <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false">
-                                                Do you provide specialty care or only general practice?
+                                                Do you provide training for carers?
                                             </h6>
                                         </div>
-                                        <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionTwo">
+                                        <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>Yes, we strictly adhere to HIPAA regulations to protect your privacy and medical information.</p>
+                                                <p>Yes. Through <b>Gilgal Training Academy,</b> we provide professional care training. Successful trainees may progress into employment with Gilgal.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <!--====== Accordion Item  ======-->
-                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="1800">
+                                    
+                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="3000">
                                         <div class="accordion-header">
                                             <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false">
-                                                How do I prepare for a medical procedure or test?
+                                                Where do you operate?
                                             </h6>
                                         </div>
-                                        <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionTwo">
+                                        <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
                                             <div class="accordion-content">
-                                                <p>Yes, we strictly adhere to HIPAA regulations to protect your privacy and medical information.</p>
+                                                <p>We operate in <b>Yenagoa and surrounding areas across Bayelsa State.</b></p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="3200">
+                                        <div class="accordion-header">
+                                            <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false">
+                                                How can we contact you?
+                                            </h6>
+                                        </div>
+                                        <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
+                                            <div class="accordion-content">
+                                                <p class="mb-3">
+                                                    <b>Address:</b><br>
+                                                    4 Estate CrescentAgudama Ekpetiama<br>Yenagoa, Bayelsa State, Nigeria.
+                                                </p>
+                                                <p class="mb-3">
+                                                    <b>Telephone:</b><br>
+                                                    0806 136 5004<br>0803 060 3329
+                                                </p>
+                                                <p class="mb-3">
+                                                    <b>WhatsApp:</b><br>
+                                                    +2348061365004
+                                                </p>
+                                                <p>
+                                                    <b>Email:</b><br>
+                                                    <a href="mailto:hello@gilgalhomecare.com">hello@gilgalhomecare.com</a>
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -203,92 +246,7 @@ include "./components/navbar-alt.php";
                         </div>
                     </div>
                 </div>
-            </section><!--====== End Faq Section ======-->
-            <!--====== Start Contact Section ======-->
-            <section class="medolia-contact-sec pt-120 pb-120">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6">
-                            <!-- Medolia Content Box -->
-                            <div class="medolia-content-box mb-5 mb-lg-0">
-                                <div class="section-title mb-40" data-aos="fade-up" data-aos-duration="800">
-                                    <span class="sub-title">Booking</span>
-                                    <h2 class="mb-20">Book Your Appointment Schedule Today</h2>
-                                    <p>Book your appointment today for expert medical & personalized And treatment, compassionate support for a healthier.</p>
-                                </div>
-                                <div class="medolia-image" data-aos="fade-up" data-aos-duration="1000">
-                                    <img src="assets/images/innerpage/contact/contact-img1.jpg" alt="contact Image">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <!-- Contact Wrapper -->
-                            <div class="contact-wrapper" data-aos="fade-up" data-aos-duration="800">
-                                <h3>Make an Appointment</h3>
-                                <form class="contact-form">
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="text" class="form_control" placeholder="Patient Name" name="name" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="text" class="form_control" placeholder="Phone Number" name="Phone" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="date" class="form_control" name="Phone" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <select class="wide">
-                                                    <option value="Time">Time</option>
-                                                    <option value="01">10.00 AM -- 11.00 AM</option>
-                                                    <option value="02">11.00 AM -- 12.00 PM</option>
-                                                    <option value="02">12.00 AM -- 01.00 PM</option>
-                                                    <option value="02">03.00 PM -- 04.00 PM</option>
-                                                    <option value="02">04.00 AM -- 05.00 PM</option>
-                                                    <option value="02">05.00 AM -- 06.00 PM</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <select class="wide">
-                                                    <option value="Select Department">Select Department</option>
-                                                    <option value="01">Cardiologist</option>
-                                                    <option value="02">Gynecologist</option>
-                                                    <option value="03">Orthopedist</option>
-                                                    <option value="04">Dentist Specialist</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <select class="wide">
-                                                    <option value="Select Doctor">Select Doctor</option>
-                                                    <option value="01">Dr. Alison Banson</option>
-                                                    <option value="02">Dr. Emily Carter</option>
-                                                    <option value="03">Christopher Case</option>
-                                                    <option value="04">Dr. Sarah Mitchell</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group mt-20">
-                                                <button class="theme-btn style-one">Appointment</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section><!--====== End Contact Section ======-->
+            </section>
         </main>
         
 <?php include "./components/footer.php"; ?>
