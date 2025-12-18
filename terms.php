@@ -261,7 +261,7 @@ include "./components/navbar-alt.php";
 
                                 <div class="section-title mb-40" data-aos="fade-up" data-aos-duration="1000">
                                     <h4 class="mb-10">Policy Acceptance</h4>
-                                    <p>Use of Gilgal’s services indicates agreement with this policy</p>
+                                    <p>Use of Gilgal’s services indicates agreement with this policy.</p>
                                     <p>Clients and representatives will be required to sign a Service Agreement Form before care begins.</p>
                                 </div>
                             </div>
