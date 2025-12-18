@@ -92,10 +92,16 @@ h6 {
   line-height: 1;
 }
 
-ul, ol {
+ul {
   margin: 0px;
-  padding: 0px;
-  list-style-type: none;
+  /* padding: 0px; */
+  list-style-type: disc;
+}
+
+ol {
+  margin: 0px;
+  /* padding: 0px; */
+  list-style-type: decimal;
 }
 
 p {
