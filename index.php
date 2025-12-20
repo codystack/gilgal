@@ -15,24 +15,12 @@ include "./components/navbar.php";
                                     <div class="medolia-button">
                                         <a href="contact.html" class="theme-btn style-one">Get Appointment</a>
                                     </div>
-                                    <div class="medolia-avatar-box">
-                                        <div class="medolia-avatar">
-                                            <ul>
-                                                <li><img src="assets/images/home-two/hero/author-img1.jpg" alt="author image"></li>
-                                                <li><img src="assets/images/home-two/hero/author-img2.jpg" alt="author image"></li>
-                                                <li><img src="assets/images/home-two/hero/author-img3.jpg" alt="author image"></li>
-                                            </ul>
-                                        </div>
-                                        <div class="trusted-user">
-                                            <h4>12k+ <span>Trusted User</span></h4>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-5 col-lg-10">
                             <div class="hero-image" data-aos="fade-up" data-aos-duration="1500">
-                                <img src="assets/images/home-two/hero/hero-img1.jpg" alt="hero image">
+                                <img src="assets/images/hero-img.jpg" alt="hero image">
                             </div>
                         </div>
                     </div>
@@ -415,131 +403,8 @@ include "./components/navbar.php";
                 </div>
             </section><!--======  End Team Section  ======-->
             <!--======  Start Testimonial Section  ======-->
-            <section class="medolia-testimonial-sec gray-light-color pt-130 pb-100">
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-8">
-                            <!-- Section Title -->
-                            <div class="section-title text-center mb-60" data-aos="fade-up" data-aos-duration="1000">
-                                <span class="sub-title">Testimonials</span>
-                                <h2>Patient Experiences That Inspire</h2>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Testimonial Slider -->
-                    <div class="testimonial-slider" data-aos="fade-up" data-aos-duration="1200">
-                        <!-- Testimonial Item -->
-                        <div class="medolia-testimonial-item mb-30">
-                            <div class="testimonial-content">
-                                <div class="rating-quote-item d-flex align-items-center justify-content-between">
-                                    <div class="ratings">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                    <div class="quote">
-                                        <i class="fas fa-quote-right"></i>
-                                    </div>
-                                </div>
-                                <p>Patients share their gratitude receiving expert medical attention, thoughtful treatment plans, &  emotional support that made all the difference.</p>
-                                <div class="medolia-author-box">
-                                    <div class="author-thumbnail">
-                                        <img src="assets/images/innerpage/testimonial/author-img1.jpg" alt="author">
-                                    </div>
-                                    <div class="author-info">
-                                        <h5>Anjelina Watson</h5>
-                                        <span class="position">Health</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Testimonial Item -->
-                        <div class="medolia-testimonial-item mb-30">
-                            <div class="testimonial-content">
-                                <div class="rating-quote-item d-flex align-items-center justify-content-between">
-                                    <div class="ratings">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                    <div class="quote">
-                                        <i class="fas fa-quote-right"></i>
-                                    </div>
-                                </div>
-                                <p>Patients share their gratitude receiving expert medical attention, thoughtful treatment plans, &  emotional support that made all the difference.</p>
-                                <div class="medolia-author-box">
-                                    <div class="author-thumbnail">
-                                        <img src="assets/images/innerpage/testimonial/author-img1.jpg" alt="author">
-                                    </div>
-                                    <div class="author-info">
-                                        <h5>Anjelina Watson</h5>
-                                        <span class="position">Health</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Testimonial Item -->
-                        <div class="medolia-testimonial-item mb-30">
-                            <div class="testimonial-content">
-                                <div class="rating-quote-item d-flex align-items-center justify-content-between">
-                                    <div class="ratings">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                    <div class="quote">
-                                        <i class="fas fa-quote-right"></i>
-                                    </div>
-                                </div>
-                                <p>Patients share their gratitude receiving expert medical attention, thoughtful treatment plans, &  emotional support that made all the difference.</p>
-                                <div class="medolia-author-box">
-                                    <div class="author-thumbnail">
-                                        <img src="assets/images/innerpage/testimonial/author-img1.jpg" alt="author">
-                                    </div>
-                                    <div class="author-info">
-                                        <h5>Anjelina Watson</h5>
-                                        <span class="position">Health</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Testimonial Item -->
-                        <div class="medolia-testimonial-item mb-30">
-                            <div class="testimonial-content">
-                                <div class="rating-quote-item d-flex align-items-center justify-content-between">
-                                    <div class="ratings">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                    <div class="quote">
-                                        <i class="fas fa-quote-right"></i>
-                                    </div>
-                                </div>
-                                <p>Patients share their gratitude receiving expert medical attention, thoughtful treatment plans, &  emotional support that made all the difference.</p>
-                                <div class="medolia-author-box">
-                                    <div class="author-thumbnail">
-                                        <img src="assets/images/innerpage/testimonial/author-img1.jpg" alt="author">
-                                    </div>
-                                    <div class="author-info">
-                                        <h5>Anjelina Watson</h5>
-                                        <span class="position">Health</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
             
+
         </main>
 
 <?php include "./components/footer.php"; ?>

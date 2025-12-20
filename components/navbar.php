@@ -24,12 +24,11 @@
                                         <li class="menu-item">
                                             <a href="./">Home</a>
                                         </li>
-                                        <li class="menu-item"><a href="about">About Us</a></li>
-                                        <li class="menu-item has-children"><a href="#">Services</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="services.html">Services</a></li>
-                                                <li><a href="service-details.html">Service Details</a></li>
-                                            </ul>
+                                        <li class="menu-item">
+                                            <a href="about">About us</a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="services">Services</a>
                                         </li>
                                         <li class="menu-item">
                                             <a href="faq">FAQ's</a>
