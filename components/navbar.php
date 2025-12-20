@@ -24,7 +24,7 @@
                                         <li class="menu-item">
                                             <a href="./">Home</a>
                                         </li>
-                                        <li class="menu-item"><a href="about.html">About Us</a></li>
+                                        <li class="menu-item"><a href="about">About Us</a></li>
                                         <li class="menu-item has-children"><a href="#">Services</a>
                                             <ul class="sub-menu">
                                                 <li><a href="services.html">Services</a></li>
@@ -39,11 +39,11 @@
                                         </li>
                                     </ul>
                                 </nav>
-                                <!--=== Theme Nav Button ===-->
+                                
                                 <div class="theme-nav-button mt-3 d-block d-md-none">
-                                    <a href="contact.html" class="theme-btn style-one">Get Appointment</a>
+                                    <a href="book-appointment" class="theme-btn style-one">Book Appointment</a>
                                 </div>
-                                <!--=== Theme Menu Bottom ===-->
+                                
                                 <div class="theme-menu-bottom mt-5 d-block d-lg-none">
                                     <h5>Follow Us</h5>
                                     <ul class="social-link">
@@ -54,10 +54,10 @@
                                     </ul>
                                 </div>
                             </div>
-                            <!--=== Header Nav Right ===-->
+                            
                             <div class="nav-right-item">
                                 <div class="nav-button d-none d-md-block">
-                                    <a href="contact.html" class="theme-btn style-one">Get Appointment</a>
+                                    <a href="book-appointment" class="theme-btn style-one">Book Appointment</a>
                                 </div>
                                 <div class="navbar-toggler">
                                     <span></span>

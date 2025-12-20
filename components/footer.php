@@ -97,5 +97,7 @@
         <script src="assets/js/plugins/aos.js"></script>
         <script src="assets/js/common.js"></script>
         <script src="assets/js/home-two.js"></script>
+        <script src="assets/js/innerpage.js"></script>
+        
     </body>
 </html>

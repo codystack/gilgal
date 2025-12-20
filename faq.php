@@ -32,9 +32,9 @@ include "./components/navbar-alt.php";
                             <div class="medolia-content-box">
                                 <div class="accordion" id="accordionOne">
                                     
-                                    <div class="accordion-box mb-20 accordion-active" data-aos="fade-up" data-aos-duration="800">
+                                    <div class="accordion-box mb-20" data-aos="fade-up" data-aos-duration="800">
                                         <div class="accordion-header">
-                                            <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true">
+                                            <h6 class="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false">
                                                 Who are Gilgal Home Care & Training Services?
                                             </h6>
                                         </div>
