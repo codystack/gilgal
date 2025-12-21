@@ -26,10 +26,10 @@ include "./components/navbar-alt.php";
             </section>
     
             
-            <section class="medolia-faq-sec pt-130 pb-80" id="daytimeSupport">
+            <section class="medolia-faq-sec pt-130" id="daytimeSupport">
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-5 col-lg-9 order-2 order-xl-1">
+                        <div class="col-xl-5 col-lg-9 order-1 order-xl-1">
                             <div class="medolia-image-box mb-50">
                                 <div class="medolia-image mb-30" data-aos="fade-up" data-aos-duration="1000">
                                     <img src="assets/images/daytime-support.png" alt="">
@@ -37,7 +37,7 @@ include "./components/navbar-alt.php";
                             </div>
                         </div>
 
-                        <div class="col-xl-7 col-lg-9 order-1 order-xl-2">
+                        <div class="col-xl-7 col-lg-9 order-2 order-xl-2">
                             <div class="medolia-content-box mb-45">
                                 <div class="section-title mb-50" data-aos="fade-up" data-aos-duration="1000">
                                     <h2 class="mb-20">Daytime Support</h2>
@@ -56,10 +56,10 @@ include "./components/navbar-alt.php";
                 </div>
             </section>
 
-            <section class="medolia-faq-sec pt-130 pb-80">
+            <section class="medolia-faq-sec pt-130" id="overnight">
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-5 col-lg-9 order-2 order-xl-1">
+                        <div class="col-xl-5 col-lg-9 order-1 order-xl-2">
                             <div class="medolia-image-box mb-50">
                                 <div class="medolia-image mb-30" data-aos="fade-up" data-aos-duration="1000">
                                     <img src="assets/images/overnight.png" alt="">
@@ -67,7 +67,7 @@ include "./components/navbar-alt.php";
                             </div>
                         </div>
 
-                        <div class="col-xl-7 col-lg-9 order-1 order-xl-2">
+                        <div class="col-xl-7 col-lg-9 order-2 order-xl-1">
                             <div class="medolia-content-box mb-45">
                                 <div class="section-title mb-50" data-aos="fade-up" data-aos-duration="1000">
                                     <h2 class="mb-20">Overnight / Sleep-In Care</h2>
@@ -89,7 +89,7 @@ include "./components/navbar-alt.php";
             <section class="medolia-faq-sec pt-130 pb-80" id="hospitalDischargeSupport">
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-5 col-lg-9 order-2 order-xl-1">
+                        <div class="col-xl-5 col-lg-9 order-1 order-xl-1">
                             <div class="medolia-image-box mb-50">
                                 <div class="medolia-image mb-30" data-aos="fade-up" data-aos-duration="1000">
                                     <img src="assets/images/hospital-discharge.png" alt="">
@@ -97,7 +97,7 @@ include "./components/navbar-alt.php";
                             </div>
                         </div>
 
-                        <div class="col-xl-7 col-lg-9 order-1 order-xl-2">
+                        <div class="col-xl-7 col-lg-9 order-2 order-xl-2">
                             <div class="medolia-content-box mb-45">
                                 <div class="section-title mb-50" data-aos="fade-up" data-aos-duration="1000">
                                     <h2 class="mb-20">Hospital Discharge Support</h2>
