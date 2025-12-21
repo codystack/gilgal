@@ -201,7 +201,7 @@ button {
 .medolia-about-sec .medolia-image-box {
   position: relative;
   margin-right: -30px;
-  min-height: 600px;
+  /* min-height: 600px; */
 }
 @media (max-width: 1650px) {
   .medolia-about-sec .medolia-image-box {

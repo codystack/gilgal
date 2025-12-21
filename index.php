@@ -30,7 +30,7 @@ include "./components/navbar.php";
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-xl-6 col-lg-10">
-                            <div class="medolia-image-box mb-50">
+                            <div class="medolia-image-box">
                                 <div class="row align-items-center">
                                     <div class="col-md-6">
                                         <div class="medolia-image" data-aos="fade-up" data-aos-duration="1000">
@@ -67,86 +67,50 @@ include "./components/navbar.php";
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
-                            <!-- Section Title --> 
                             <div class="section-title mb-60" data-aos="fade-up" data-aos-duration="1000">
-                                <span class="sub-title">Our Services</span>
-                                <h2>We Offer a Wide Range of Dental Care Services.</h2>
+                                <h2>Our Care Services</h2>
+                                <p>At Gilgal Home Care & Training Services, we are committed to upholding dignity at all times while delivering compassionate, high-quality care that families can trust.</p>
                             </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="medolia-arrows mb-60" data-aos="fade-up" data-aos-duration="1200"></div>
                         </div>
                     </div>
-                    <!-- Service Slider -->
-                    <div class="service-slider">
-                        <!-- Medolia Service Item -->
-                        <div class="medolia-service-item">
-                            <div class="thumbnail">
-                                <img src="assets/images/home-two/service/service-img1.jpg" alt="service image">
-                            </div>
-                            <div class="content">
-                                <div class="icon">
-                                    <i class="flaticon-tooth-1"></i>
+                    
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="medolia-service-item">
+                                <div class="thumbnail">
+                                    <img src="assets/images/daytime-support.png" alt="service image">
                                 </div>
-                                <h4><a href="service-details.html">Dental Implant Services</a></h4>
-                                <p>Reliable advanced dental implant service for a confident and healthy smile.</p>
-                                <a href="service-details.html" class="read-more style-one">Read More</a>
+                                <div class="content">
+                                    <h4><a href="services#daytimeSupport">Daytime Support</a></h4>
+                                    <p>Our daytime care service provides reliable assistance to help clients remain safe, comfortable, and independent in their own homes...</p>
+                                    <a href="services#daytimeSupport" class="read-more style-one">Read More</a>
+                                </div>
                             </div>
                         </div>
-                        <!-- Medolia Service Item -->
-                        <div class="medolia-service-item">
-                            <div class="thumbnail">
-                                <img src="assets/images/home-two/service/service-img2.jpg" alt="service image">
-                            </div>
-                            <div class="content">
-                                <div class="icon">
-                                    <i class="flaticon-tooth-1"></i>
+                        
+                        <div class="col-lg-4">
+                            <div class="medolia-service-item">
+                                <div class="thumbnail">
+                                    <img src="assets/images/overnight.png" alt="service image">
                                 </div>
-                                <h4><a href="service-details.html">General Dentistry Services</a></h4>
-                                <p>Reliable advanced dental implant service for a confident and healthy smile.</p>
-                                <a href="service-details.html" class="read-more style-one">Read More</a>
+                                <div class="content">
+                                    <h4><a href="services#overnight">Overnight / Sleep-In Care</a></h4>
+                                    <p>We offer overnight and sleep-in care to ensure safety, comfort, and reassurance throughout the night. Our trained caregivers provide supervision, assist with toileting...</p>
+                                    <a href="services#overnight" class="read-more style-one">Read More</a>
+                                </div>
                             </div>
                         </div>
-                        <!-- Medolia Service Item -->
-                        <div class="medolia-service-item">
-                            <div class="thumbnail">
-                                <img src="assets/images/home-two/service/service-img3.jpg" alt="service image">
-                            </div>
-                            <div class="content">
-                                <div class="icon">
-                                    <i class="flaticon-tooth-1"></i>
+
+                        <div class="col-lg-4">
+                            <div class="medolia-service-item">
+                                <div class="thumbnail">
+                                    <img src="assets/images/hospital-discharge.png" alt="service image">
                                 </div>
-                                <h4><a href="service-details.html">Orthodontics Services</a></h4>
-                                <p>Reliable advanced dental implant service for a confident and healthy smile.</p>
-                                <a href="service-details.html" class="read-more style-one">Read More</a>
-                            </div>
-                        </div>
-                        <!-- Medolia Service Item -->
-                        <div class="medolia-service-item">
-                            <div class="thumbnail">
-                                <img src="assets/images/home-two/service/service-img4.jpg" alt="service image">
-                            </div>
-                            <div class="content">
-                                <div class="icon">
-                                    <i class="flaticon-tooth-1"></i>
+                                <div class="content">
+                                    <h4><a href="services#hospitalDischargeSupport">Hospital Discharge Support</a></h4>
+                                    <p>Our hospital discharge support service ensures a smooth and safe transition from hospital to home. We conduct post-discharge care assessments...</p>
+                                    <a href="services#hospitalDischargeSupport" class="read-more style-one">Read More</a>
                                 </div>
-                                <h4><a href="service-details.html">Prosthodontics Services</a></h4>
-                                <p>Reliable and advanced dental implant services for a confident healthy smile.</p>
-                                <a href="service-details.html" class="read-more style-one">Read More</a>
-                            </div>
-                        </div>
-                        <!-- Medolia Service Item -->
-                        <div class="medolia-service-item">
-                            <div class="thumbnail">
-                                <img src="assets/images/home-two/service/service-img3.jpg" alt="service image">
-                            </div>
-                            <div class="content">
-                                <div class="icon">
-                                    <i class="flaticon-tooth-1"></i>
-                                </div>
-                                <h4><a href="service-details.html">Orthodontics Services</a></h4>
-                                <p>Reliable advanced dental implant service for a confident and healthy smile.</p>
-                                <a href="service-details.html" class="read-more style-one">Read More</a>
                             </div>
                         </div>
                     </div>
