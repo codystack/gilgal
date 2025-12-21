@@ -98,7 +98,7 @@ include "./components/navbar.php";
                                     <p>We offer overnight and sleep-in care to ensure safety, comfort, and reassurance throughout the night. Our trained caregivers provide supervision, assist with toileting...</p>
                                     <a href="services#overnight" class="read-more style-one">Read More</a>
                                 </div>
-                            </div
+                            </div>
                         </div>
 
                         <div class="col-lg-4">
