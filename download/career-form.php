@@ -2,8 +2,8 @@
 // Whitelisted files
 $files = [
     'manager' => '../assets/documents/Gilgal_Manager_Care_Coordinator_Fillable_Application.pdf',
-    'brochure'    => 'assets/documents/Brochure.pdf',
-    'pricing'     => 'assets/documents/Pricing.pdf'
+    'physiotherapist'    => '../assets/documents/Physiotherapist.pdf',
+    'hca'     => '../assets/documents/Health Care Assistant.pdf'
 ];
 
 // Get requested file key

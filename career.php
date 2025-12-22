@@ -61,6 +61,56 @@ include "./components/navbar-alt.php";
                                 </div>
                             </div>
                         </div>
+
+                        <div class="col-xl-6 col-md-6 col-sm-12">
+                            <div class="mb-40" data-aos="fade-up" data-aos-duration="1000" style="background-color: var(--white-color); padding: 40px; border: 1px solid var(--border-color); border-radius: 10px; position: relative; -webkit-transition: all 0.3s; transition: all 0.3s;">
+                                <div class="pricing-header">
+                                    <h4 class="price mb-3">Physiotherapists in Stroke Aftercare</h4>
+                                    <p>This role involves assessment, treatment and rehabilitation responsibilities, supporting stroke patients’ recovery, mobility, daily activities and collaboration with healthcare teams.</p>
+                                </div>
+                                <div class="pricing-body mt-3">
+                                    <div class="pt-20">
+                                        <div class="row g-3">
+                                            <div class="col-12 col-md-6">
+                                                <a href="./download/career-form?file=physiotherapist" class="theme-btn style-one w-100 text-center">
+                                                    Apply Now
+                                                </a>
+                                            </div>
+                                            <div class="col-12 col-md-6">
+                                                <a href="" class="theme-btn style-two w-100 text-center" style="padding: 15px 44px;">
+                                                    Job Description
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-6 col-md-6 col-sm-12">
+                            <div class="mb-40" data-aos="fade-up" data-aos-duration="1000" style="background-color: var(--white-color); padding: 40px; border: 1px solid var(--border-color); border-radius: 10px; position: relative; -webkit-transition: all 0.3s; transition: all 0.3s;">
+                                <div class="pricing-header">
+                                    <h4 class="price mb-3">Health Care Assistant (HCA)</h4>
+                                    <p>To provide safe, compassionate, and person-centred care and support to older adults and vulnerable individuals in their own homes, promoting dignity, independence, and wellbeing.</p>
+                                </div>
+                                <div class="pricing-body mt-3">
+                                    <div class="pt-20">
+                                        <div class="row g-3">
+                                            <div class="col-12 col-md-6">
+                                                <a href="./download/career-form?file=hca" class="theme-btn style-one w-100 text-center">
+                                                    Apply Now
+                                                </a>
+                                            </div>
+                                            <div class="col-12 col-md-6">
+                                                <a href="" class="theme-btn style-two w-100 text-center" style="padding: 15px 44px;">
+                                                    Job Description
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
