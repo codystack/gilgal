@@ -77,12 +77,11 @@ include "./components/navbar-alt.php";
                         <div class="col-lg-6">
                             <div class="medolia-content-box mb-5 mb-md-0">
                                 <div class="section-title mb-40" data-aos="fade-up" data-aos-duration="1000">
-                                    <span class="sub-title">Booking</span>
                                     <h2 class="mb-20">Book Your Appointment Schedule Today</h2>
                                     <p>Book your appointment today for expert social care, personalized treatment, and compassionate support for a healthier life.</p>
                                 </div>
                                 <div class="medolia-image" data-aos="fade-up" data-aos-duration="1200">
-                                    <img src="assets/images/contact-img1.jpg" alt="contact Image">
+                                    <img src="assets/images/contact-img.png" alt="contact Image">
                                 </div>
                             </div>
                         </div>
