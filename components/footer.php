@@ -25,6 +25,7 @@
                                                 <li><a href="./">Home</a></li>
                                                 <li><a href="about">About us</a></li>
                                                 <li><a href="contact">Contact us</a></li>
+                                                <li><a href="services">Services</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -37,6 +38,7 @@
                                                 <li><a href="faq">FAQ's</a></li>
                                                 <li><a href="privacy">Privacy Policy</a></li>
                                                 <li><a href="terms">Terms of Use</a></li>
+                                                <li><a href="book-appointment">Book Appointment</a></li>
                                             </ul>
                                         </div>
                                     </div>

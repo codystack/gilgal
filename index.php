@@ -12,7 +12,7 @@ include "./components/navbar.php";
                                 <p>From daily personal care to overnight and hospital discharge support, our trained caregivers deliver safe, respectful, and personalised care right at home.</p>
                                 <div class="hero-button-wrap" data-aos="fade-up" data-aos-duration="1400">
                                     <div class="medolia-button">
-                                        <a href="book-appointment" class="theme-btn style-one">Get Appointment</a>
+                                        <a href="book-appointment" class="theme-btn style-one">Book Appointment</a>
                                     </div>
                                 </div>
                             </div>
@@ -150,7 +150,7 @@ include "./components/navbar.php";
                             
                                 <div class="hero-button-wrap mt-10" data-aos="fade-up" data-aos-duration="1400">
                                     <div class="medolia-button">
-                                        <a href="book-appointment" class="theme-btn style-one">Get Appointment</a>
+                                        <a href="book-appointment" class="theme-btn style-one">Book Appointment</a>
                                     </div>
                                 </div>
                             </div>

@@ -11,11 +11,10 @@ include "./components/navbar-alt.php";
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-10">
-                            <!-- Page Content -->
                             <div class="page-content text-center">
                                 <h1>Services</h1>
                                 <ul>
-                                    <li><a href="#">Home</a></li>
+                                    <li><a href="./">Home</a></li>
                                     <li><i class="far fa-angle-double-right"></i></li>
                                     <li>Services</li>
                                 </ul>
@@ -46,7 +45,7 @@ include "./components/navbar-alt.php";
 
                                     <div class="hero-button-wrap mt-15" data-aos="fade-up" data-aos-duration="1400">
                                         <div class="medolia-button">
-                                            <a href="book-appointment" class="theme-btn style-one">Get Appointment</a>
+                                            <a href="book-appointment" class="theme-btn style-one">Book Appointment</a>
                                         </div>
                                     </div>
                                 </div>
@@ -76,7 +75,7 @@ include "./components/navbar-alt.php";
                                 
                                     <div class="hero-button-wrap mt-15" data-aos="fade-up" data-aos-duration="1400">
                                         <div class="medolia-button">
-                                            <a href="book-appointment" class="theme-btn style-one">Get Appointment</a>
+                                            <a href="book-appointment" class="theme-btn style-one">Book Appointment</a>
                                         </div>
                                     </div>
                                 </div>
@@ -106,7 +105,7 @@ include "./components/navbar-alt.php";
 
                                     <div class="hero-button-wrap mt-15" data-aos="fade-up" data-aos-duration="1400">
                                         <div class="medolia-button">
-                                            <a href="book-appointment" class="theme-btn style-one">Get Appointment</a>
+                                            <a href="book-appointment" class="theme-btn style-one">Book Appointment</a>
                                         </div>
                                     </div>
                                 </div>

@@ -1,33 +1,6 @@
 @charset "UTF-8";
-/*----------------------------------------------------------------------------------- 
-
-Template Name: Medolia – Doctor, Dental & Healthcare HTML Template
-URI: pixelfit.agency
-Description: Medolia is a modern, clean, and professional HTML template built specifically for the healthcare industry. Whether you’re a private doctor, dental clinic, or a multispecialty hospital, Medolia offers the perfect design to establish trust and deliver information clearly.
-Author: Pixelfit
-Author URI: https://themeforest.net/user/pixelfit
-Version: 1.0 
 
 
-------------------------------------------------------
-   CSS INDEX
------------------------------------------------------
-
-    # Page Banner CSS
-    # About Page CSS
-    # Service Page CSS
-    # Service Details Page CSS
-    # Team Page CSS
-    # Team Details Page CSS
-    # Pricing Page CSS
-    # Faq Page CSS
-    # Testimonial Page CSS
-    # Blog Grid Page CSS
-    # Blog Details Page CSS
-    # Contact Page CSS
-    # 404 Page CSS
-
--------------------------------------------------------    */
 .theme-btn.style-one:hover {
   background-color: var(--heading-color);
   color: var(--white-color);
@@ -35,7 +8,7 @@ Version: 1.0
 
 /* Page Banner CSS */
 .page-banner {
-  background-color: #F1FCF9;
+  background-color: #daf3f9;
   padding: 210px 0 130px;
   position: relative;
   z-index: 1;
@@ -942,7 +915,7 @@ Version: 1.0
 }
 
 .accordion-item.accordion-active {
-  background-color: #F1FCF9;
+  background-color: #daf3f9;
 }
 
 /* Testimonial Page CSS */

@@ -6,7 +6,7 @@
   --heading-color: #0E0C0A;
   --primary-black-color: #031B33;
   --black-dark-color: #0A0A0A;
-  --gray-light-color: #F1FCF9;
+  --gray-light-color: #daf3f9;
   --white-color: #ffffff;
   --text-color: #2D4443;
   --border-color: #E5E5E5;
@@ -1272,7 +1272,7 @@ label {
 }
 .footer-widget .widget-content .social-box a:hover {
   border-color: transparent;
-  background-color: var(--primary-color);
+  background-color: #FFB6C1;
 }
 .footer-widget .widget-content .widget-nav li:not(:last-child) {
   margin-bottom: 15px;
