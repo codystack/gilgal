@@ -52,7 +52,7 @@ include "./components/navbar-alt.php";
                                                 </a>
                                             </div>
                                             <div class="col-12 col-md-6">
-                                                <a href="" class="theme-btn style-two w-100 text-center" style="padding: 15px 44px;">
+                                                <a href="" type="button" data-bs-toggle="modal" data-bs-target="#managerModal" class="theme-btn style-two w-100 text-center" style="padding: 15px 44px;">
                                                     Job Description
                                                 </a>
                                             </div>
@@ -121,5 +121,6 @@ include "./components/navbar-alt.php";
 <?php 
 include "./modal/health-care-assistant.php";
 include "./modal/physiotherapist.php";
+include "./modal/manager.php";
 include "./components/footer.php";
 ?>
