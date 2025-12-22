@@ -24,6 +24,7 @@
                                             <ul class="widget-nav" style="list-style-type: none; padding: 0px;">
                                                 <li><a href="./">Home</a></li>
                                                 <li><a href="about">About us</a></li>
+                                                <li><a href="career">Jobs</a></li>
                                                 <li><a href="contact">Contact us</a></li>
                                                 <li><a href="services">Services</a></li>
                                             </ul>

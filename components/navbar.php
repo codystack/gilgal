@@ -34,6 +34,9 @@
                                             <a href="faq">FAQ's</a>
                                         </li>
                                         <li class="menu-item">
+                                            <a href="career">Jobs</a>
+                                        </li>
+                                        <li class="menu-item">
                                             <a href="contact">Contact</a>
                                         </li>
                                     </ul>
