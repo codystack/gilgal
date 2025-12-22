@@ -45,37 +45,73 @@
 
                         <div class="section-title mt-30" data-aos="fade-up" data-aos-duration="1000">
                             <h3>Person Specification</h3>
+                            <hr />
                             <h4>Essential Criteria</h4>
                         </div>
-                        <p data-aos="fade-up" data-aos-duration="1400"></p>
+                        <p data-aos="fade-up" data-aos-duration="1400">
+                            <ul>
+                                <li>Caring, compassionate, and respectful attitude</li>
+                                <li>Good communication skills</li>
+                                <li>Willingness to learn and undertake training</li>
+                                <li>Ability to follow care plans and instructions</li>
+                                <li>Commitment to safeguarding and confidentiality</li>
+                                <li>Ability to work independently and as part of a team</li>
+                                <li>Basic reading and record-keeping ability</li>
+                            </ul>
+                        </p>
 
                         <div class="section-title mt-30" data-aos="fade-up" data-aos-duration="1000">
-                            <h4></h4>
+                            <h4>Desirable Criteria</h4>
                         </div>
-                        <p class="mb-3" data-aos="fade-up" data-aos-duration="1400"></p>
+                        <p data-aos="fade-up" data-aos-duration="1400">
+                            <ul>
+                                <li>Previous experience in domiciliary or adult social care</li>
+                                <li>Relevant qualification (BSc Nursing, NCE, or care-related training)</li>
+                                <li>Knowledge of dementia, stroke, or older adults’ care</li>
+                                <li>Ability to work flexible hours, including weekends or nights</li>
+                            </ul>
+                        </p>
 
                         <div class="section-title mt-30" data-aos="fade-up" data-aos-duration="1000">
-                            <h4></h4>
+                            <h4>Training & Development</h4>
                         </div>
-                        <p class="mb-3" data-aos="fade-up" data-aos-duration="1400"></p>
+                        <p data-aos="fade-up" data-aos-duration="1400">
+                            <ul>
+                                <li>
+                                    All successful applicants will complete training aligned with the Care Certificate Standards, including:
+                                        <ul>
+                                            <li>Understanding Your Role</li>
+                                            <li>Duty of Care</li>
+                                            <li>Person-Centred Care</li>
+                                            <li>Equality, Diversity & Inclusion</li>
+                                            <li>Work in a Person-Centred Way</li>
+                                            <li>Communication</li>
+                                            <li>Privacy & Dignity</li>
+                                            <li>Fluids & Nutrition</li>
+                                            <li>Awareness of Mental Health, Dementia & Learning Disabilities</li>
+                                            <li>Safeguarding Adults</li>
+                                            <li>Safeguarding Children (where applicable)</li>
+                                            <li>Basic Life Support</li>
+                                            <li>Health & Safety</li>
+                                            <li>Handling Information (Confidentiality & Data Protection)</li>
+                                        </ul>
+                                </li>
+                                <li>Training and supervision will be delivered in line with Nigerian health and social care best practice and organisational policies.</li>
+                                <li>Ongoing refresher training, supervision, and competency reviews are mandatory.</li>
+                            </ul>
+                        </p>
 
                         <div class="section-title mt-30" data-aos="fade-up" data-aos-duration="1000">
-                            <h4></h4>
+                            <h4>Equal Opportunities</h4>
                         </div>
-                        <p class="mb-3" data-aos="fade-up" data-aos-duration="1400"></p>
+                        <p data-aos="fade-up" data-aos-duration="1400">Gilgal Home Care & Training Services is an equal opportunities employer and welcomes applications from all suitably qualified individuals.</p>
 
-                        <div class="section-title mt-30" data-aos="fade-up" data-aos-duration="1000">
-                            <h4></h4>
-                        </div>
-                        <p class="mb-3" data-aos="fade-up" data-aos-duration="1400"></p>
+                        <p class="mt-30 text-danger" data-aos="fade-up" data-aos-duration="1400"><i>Only shortlisted candidates will be contacted.</i></p>
 
-                        <div class="section-title mt-30" data-aos="fade-up" data-aos-duration="1000">
-                            <h4></h4>
-                        </div>
-                        <p class="mb-3" data-aos="fade-up" data-aos-duration="1400"></p>
-
-                        <div class="medolia-button" data-aos="fade-up" data-aos-duration="1800">
-                            <a href="about" class="theme-btn style-one">More About Us</a>
+                        <div class="pricing-body">
+                            <div class="pt-20">
+                                <a href="./download/career-form?file=hca" class="theme-btn style-two" style="width: 100%;">Download Application Form</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -83,8 +119,7 @@
         </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Understood</button>
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
