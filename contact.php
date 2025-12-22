@@ -123,21 +123,21 @@ include "./components/navbar-alt.php";
                                             <div class="form-group">
                                                 <select class="wide">
                                                     <option value="Select Department">Select Department</option>
-                                                    <option value="01">Cardiologist</option>
-                                                    <option value="02">Gynecologist</option>
-                                                    <option value="03">Orthopedist</option>
-                                                    <option value="04">Dentist Specialist</option>
+                                                    <option value="Care assessment">Care assessment</option>
+                                                    <option value="Physiotherapy">Physiotherapy</option>
+                                                    <option value="Occupational therapy">Occupational therapy</option>
+                                                    <option value="Home health care">Home health care</option>
                                                 </select>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="form-group">
                                                 <select class="wide">
-                                                    <option value="Select Doctor">Select Doctor</option>
-                                                    <option value="01">Dr. Alison Banson</option>
-                                                    <option value="02">Dr. Emily Carter</option>
-                                                    <option value="03">Christopher Case</option>
-                                                    <option value="04">Dr. Sarah Mitchell</option>
+                                                    <option value="Select Doctor">Select your social care specialist</option>
+                                                    <option value="Social worker">Social worker</option>
+                                                    <option value="Health care assistant">Health care assistant</option>
+                                                    <option value="Physiotherapist">Physiotherapist</option>
+                                                    <option value="Occupational therapist">Occupational therapist</option>
                                                 </select>
                                             </div>
                                         </div>
