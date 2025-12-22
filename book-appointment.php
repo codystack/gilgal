@@ -33,7 +33,7 @@ include "./components/navbar-alt.php";
                                 <div class="pricing-header">
                                     <h2 class="price">Book Your Care Appointment</h2>
                                     <p>Use the button below to download our appointment request form. After submitting the completed form, a Gilgal Home Care representative will follow up to confirm details and arrange your appointment.</p>
-                                    <p class="mt-4">All appointment booking forms will be sent via email to <span class="text-danger">hello@gilgalhomecare.com</span></p>
+                                    <p class="mt-4">Please complete and send your booking form via email to <span class="text-danger">hello@gilgalhomecare.com</span></p>
                                 </div>
                                 <div class="pricing-body">
                                     <div class="pt-20">
