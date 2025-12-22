@@ -87,7 +87,7 @@ include "./components/navbar-alt.php";
                         <div class="col-xl-5 col-lg-9 order-2 order-xl-1">
                             <div class="medolia-image-box mb-50">
                                 <div class="medolia-image mb-30" data-aos="fade-up" data-aos-duration="1000">
-                                    <img src="assets/images/mandv-img.jpg" alt="">
+                                    <img src="assets/images/mandv-img1.jpg" alt="">
                                 </div>
                             </div>
                         </div>
