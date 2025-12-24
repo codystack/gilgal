@@ -56,7 +56,7 @@
                                             <i class="far fa-map-marker-alt"></i>
                                         </div>
                                         <div class="content">
-                                            <p>Yanagoa, Bayelsa State.</p>
+                                            <p>Yenagoa, Bayelsa State.</p>
                                         </div>
                                     </div>
                                     <div class="medolia-info-box mb-25">
